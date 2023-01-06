@@ -120,7 +120,11 @@
 
  }
  .allways-info{
-    background-color: black;
+    background-image: url("/images/watch.png") , url(/images/gradient2.png) ;
+            background-blend-mode:lighten;
+            background-size: cover;
+            background-position: center;
+            background-color: #f15d2220;
     }
  .allways-tittle{
     padding-left: 64px;
@@ -133,5 +137,75 @@
 
  }
  .secondery-btn{
+    height: 64px;
+    background: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;    
+    color: #F15B22;  
+    border: 0;
+    margin-left:59px ;
+    margin-bottom: 45px;
+
+ 
+ }
+
+ /* <!-- footer <section --> */
+
+ .footer{
+    display: flex;
+    height: 577px;
+    background: #151414;
+    align-items: center;
+    justify-content: center;
+    gap: 300px;
 
  }
+ .future{
+  color: #FFFFFF;
+  margin-left: 230px;
+ 
+
+ }
+ .f-tittle{
+    font-weight: 100;
+    font-size: 45px;
+    padding-bottom: 16;
+    line-height: 40px;
+    margin-bottom: 20px;
+    
+
+ }
+ .f-description{
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 20px;
+
+
+ }
+ .f-email{
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 24px;
+
+
+ }
+ .f-contact{
+
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 30px;
+   
+ }
+ .s-img{
+
+ }
+
+ .form{
+    width: 325px;
+    height: 204px;
+    margin-right: 229px;
+ }
+.form-subscribe{
+
+}
