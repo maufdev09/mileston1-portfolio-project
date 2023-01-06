@@ -43,3 +43,95 @@
     border: 0;
     
 }
+
+
+
+/* failures section */
+.my-failures{
+    display: flex;
+    gap: 80px;
+    margin: 130px 0px;
+    align-items: center;
+
+}
+.failures-img{
+    width: 569px;
+    margin-left: 206px;
+}
+.failures-info{
+    margin-left: 80px;    
+    margin-right: 100px;
+
+
+}
+.failures-tittle{
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+.failures-description{
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 16px;
+
+}
+.failures-checkouts{
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+
+/*  my plan section */
+.myplan{
+    display: flex;
+    gap: 80px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 150px;
+
+    
+}
+.my-plan-heading{
+    font-weight: 700;
+     font-size: 40px; 
+     text-align: center;  
+     margin-bottom: 50px;
+     
+
+}
+.my-plan-info{}
+.my-plan-tittle{
+    font-weight: 700;
+   font-size: 30px;
+   margin: top 24px; ;
+   margin-bottom:16px ;
+}
+.my-plan-subtittle{
+    font-weight: 500;
+    font-size: 25px;
+}
+
+ /* allways keep section  */
+
+ .allways-keep{
+    margin:135px 230px;
+
+ }
+ .allways-info{
+    background-color: black;
+    }
+ .allways-tittle{
+    padding-left: 64px;
+    padding-top: 59px;
+    margin-bottom: 45px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+
+
+ }
+ .secondery-btn{
+
+ }
