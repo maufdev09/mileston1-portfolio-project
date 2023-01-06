@@ -207,5 +207,29 @@
     margin-right: 229px;
  }
 .form-subscribe{
+    font-weight: 600;
+     font-size: 25px;
+     margin-bottom: 31px;
+     color: #FFFFFF;
 
+}
+.form input{
+    margin-bottom: 20px;
+    background: #151414;
+    color: #FFFFFF;
+    width: 325px;
+    height: 64px;
+     border: 1px solid #FFFFFF;
+     border-radius: 10px;
+
+}
+
+.submit-btn{
+    height: 64px;
+    background: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;    
+    color: #F15B22;  
+    border: 0;
 }
