@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    font-family: 'Work Sans', sans-serif;
+
+}
+/* hero-section */
+.hero-section{
+    background-image: url(/images/banner/banner1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom right,left;
+    height: 700px;
+}
+.hero-info{
+    text-align: right;
+    padding-left: 830px;
+    padding-right: 230px;
+    padding-top: 216px;
+    padding-bottom: 100px;
+
+}
+.hero-tittle{
+    font-weight: 700;
+     font-size: 65px;
+     color: #151414;
+     margin-bottom: 24px; 
+}
+.hero-description{
+
+    font-weight: 400;
+     font-size: 16px;
+     margin-bottom: 30px; 
+
+
+}
+.primary-button{
+    height: 64px;
+    background: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;    
+    color: #FFFFFF;  
+    border: 0;
+    
+}
